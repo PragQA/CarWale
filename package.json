@@ -1,0 +1,15 @@
+{
+  "name": "cytest",
+  "version": "1.0.0",
+  "description": "First time working with Cy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress:open"
+  },
+  "author": "Pragna",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.3.0"
+  }
+}
